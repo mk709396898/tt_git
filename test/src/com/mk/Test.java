@@ -6,4 +6,8 @@ public class Test {
 		System.out.println("test000000111111");
 	}
 	
+	public static void test01() {
+		System.out.println("test00001");
+	}
+	
 }
